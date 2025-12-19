@@ -1,4 +1,4 @@
-# A Geometric Interpretation of QCD Su(3) and the Higgs Field in Wheeler's Mass without Mass
+# A Geometric Interpretation of QCD SU(3) and the Higgs Field in Wheeler's Mass without Mass
 
 https://doi.org/10.5281/zenodo.15278220, Section.10
 
